@@ -1,3 +1,5 @@
+# Simple Alberta Canada Based Tax Calc
+
 hours = float(input("Please Enter the Number of Hours you worked this week: "))
 minimum_wage = 15
 gross_income = minimum_wage * hours
